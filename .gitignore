@@ -2,3 +2,4 @@
 npm-debug.*
 
 sftp-config.json
+/lib/config.js
